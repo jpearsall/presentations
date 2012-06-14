@@ -1,0 +1,25 @@
+.content {
+  color: black;
+  font-family: helvetica, arial;
+  font-size: 0.8em;
+}
+
+h1, h2 {
+  color: #4FB4E2;
+  font-family: Georgia;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+h2 {
+  font-size: 2.0em;
+}
+
+.bullets ul li {
+  font-size: 0.7em;
+  color: #999;
+  padding-right: 2.1em;
+}
+

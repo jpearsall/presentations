@@ -1,0 +1,8 @@
+{
+    "name": "Intrusion Detection for Websites With Snort / Snorby",
+    "description": "Intrusion Detection for Websites With Snort / Snorby",
+    "sections": [
+        {"section":"00_introduction"},
+        {"section":"01_what-are-they"}
+    ]
+}
