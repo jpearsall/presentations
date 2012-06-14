@@ -107,4 +107,4 @@ alert tcp any any -> any 1234 (msg:"TECHTALK blasphemer"; content:"TECHTALK SUCK
 * http://snort.org/
 * http://perldancer.org/
 * https://github.com/schacon/showoff
-* https://github.com/jpearsall/presentations (coming soon)
+* https://github.com/jpearsall/presentations
