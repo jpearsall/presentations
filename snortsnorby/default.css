@@ -29,7 +29,8 @@ h2 {
 
 #presentation {
   color: #fff;
+  font-color: #000;
   width: 80%;
   margin: 0 auto;
-  padding: 0.5em;
+  padding: 1em;
 }
