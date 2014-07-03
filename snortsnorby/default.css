@@ -1,3 +1,7 @@
+body {
+  background-color: #000;
+}
+
 .content {
   color: black;
   font-family: helvetica, arial;
@@ -23,3 +27,7 @@ h2 {
   padding-right: 2.1em;
 }
 
+#presentation {
+  width: 80%;
+  margin: 0 auto;
+}
